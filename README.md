@@ -1,5 +1,5 @@
 # community-service
-💬 MERN Stack으로 구현한 커뮤니티 서비스
+💬 MERN Stack 기반 커뮤니티 서비스
 ## 1. 기본 기능 구성
 - 사용자 등록, 로그인, 로그아웃 (/)
 - 소개 페이지 (/about)
